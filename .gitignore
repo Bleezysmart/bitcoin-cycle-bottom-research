@@ -1,0 +1,24 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary / lock files
+*.tmp
+*.temp
+~$*
+
+# Power BI temporary files
+*.pbit
+*.bak
+
+# Python / notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Local environment / secrets
+.env
+.env.*
